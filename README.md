@@ -22,3 +22,6 @@ This is a simple HTML and CSS code for a Cube Loading Animation.
   </div>
 </div>
 ```
+
+## Preview
+<img width="960" alt="Screenshot 2023-03-19 120245" src="https://user-images.githubusercontent.com/59678435/226159608-09363002-0319-4f2b-800c-07138d4d5ea5.png">
